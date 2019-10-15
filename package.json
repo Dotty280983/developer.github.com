@@ -12,7 +12,7 @@
     "gulp-sass": "^2.0.4",
     "gulp-uglify": "^1.4.2",
     "js-yaml": "^3.4.3",
-    "snyk": "^1.17.0"
+    "snyk": "^1.235.0"
   },
   "devDependencies": {
     "gulp-connect": "^2.2.0"
